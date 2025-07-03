@@ -5,8 +5,7 @@ The project combines a strong frontend UI with basic backend functionality for u
 
 ## Features
 
--  Hotel listings with images and details  
--  Booking form with check-in/check-out date selection  
+-  Hotel listings with images and details   
 -  User login system (basic backend functionality)  
 -  Responsive layout across all devices  
 -  Clean and intuitive user interface
